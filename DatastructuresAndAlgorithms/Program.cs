@@ -10,6 +10,9 @@ namespace DatastructuresAndAlgorithms
     {
         static void Main(string[] args)
         {
+            //LeastDifferenceBetweenTwoElements.Invoke();
+            FindPairElementsWithGivenSum.Invoke();
+            Console.ReadLine();
         }
     }
 }
