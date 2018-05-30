@@ -10,10 +10,11 @@ namespace DatastructuresAndAlgorithms
     {
         static void Main(string[] args)
         {
-            LeastDifferenceBetweenTwoElements.Invoke();
-            FindPairElementsWithGivenSum.Invoke();
-            RecursivelyRemoveAdjacentDuplicates.Invoke();
-            ReverseStringUsingStack.Invoke();
+            //LeastDifferenceBetweenTwoElements.Invoke();
+            //FindPairElementsWithGivenSum.Invoke();
+            //RecursivelyRemoveAdjacentDuplicates.Invoke();
+            //ReverseStringUsingStack.Invoke();
+            SplitAndAppendAtPosition.Invoke();
 
             Console.ReadLine();
         }
